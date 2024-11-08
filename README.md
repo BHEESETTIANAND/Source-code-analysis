@@ -50,3 +50,13 @@ open up localhost:
 - OpenAI
 - GPT 3
 - ChoromaDB
+
+
+
+
+## Final Output
+
+![Screenshot (6)](https://github.com/user-attachments/assets/e50ab3e3-6026-4b95-a90e-82f0578099d1)
+
+![Screenshot (7)](https://github.com/user-attachments/assets/c3137971-5ea7-4440-baa0-1de0ca16cb3c)
+
